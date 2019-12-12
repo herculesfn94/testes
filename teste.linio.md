@@ -1,5 +1,11 @@
 #teste realizado para Linio em PHP
 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TESTE LINIO</title>
+</head>
+<body>
 <?php
 	for($contagem = 1; $contagem <= 100; $contagem++){
 		echo $contagem."<br/>";
@@ -15,3 +21,6 @@
 		
 	}
 ?>
+
+</body>
+</html>
