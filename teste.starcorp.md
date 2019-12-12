@@ -1,4 +1,4 @@
-#teste realizado para Linio em PHP
+#teste realizado para StarCorp em PHP
 
 <!DOCTYPE html>
 <html>
