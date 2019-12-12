@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>TESTE LINIO</title>
+	<title>TESTE StarCorp</title>
 </head>
 <body>
 <?php
